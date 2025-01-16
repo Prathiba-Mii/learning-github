@@ -1,9 +1,1 @@
-I AM BEST!
-I DESERVE BEST!
-I TOPPER 
-I GOT 98% MARKS IN MY SEM 
-I AM VERY HAPPY BECAUSE OF IT!
-I AM HAPPY, I AM PEACEFUL , I AM POSITIVE , I AM LUCKY! 
-I am healthy!
-I AM STRONG!
-I AM BLESSED....
+A web developer is a professional who designs, builds, and maintains websites or web applications. They work with coding languages like HTML, CSS, and JavaScript to create user-friendly interfaces and ensure websites function smoothly. Web developers play a key role in bringing creative ideas to life on the internet.
